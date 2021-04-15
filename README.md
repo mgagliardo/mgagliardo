@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi there, I'm Miguel 👋
 
-<!--
-**mgagliardo/mgagliardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👷 Currently working as SRE on [N26](https://n26.com) and Contributor on [Localstack](https://localstack.cloud/).
 
-Here are some ideas to get you started:
+ My technology stack:
+* Docker + k8s
+* Cloud providers (AWS, mostly)
+* Programming: Bash, Python, Javascript
+* CI/CD (Jenkins, CircleCI, Gitlab Pipelines)
+* Hashicorp's stack (Terraform, Vault, Consul)
+* Configuration Management Tools (Saltstack, Ansible)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
+🌱 I'm currently:
+* Studying Engineering at [Valencian International University](https://www.universidadviu.com/)
+* 
+
+
+
+- 🤔 I’m looking for help with:
+
+
+
+
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgagliardo&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgagliardo&layout=compact&theme=buefy)](https://github.com/mgagliardo/github-readme-stats)
+
+📫 How to reach me:
+* 📖 Linkedin: https://linkedin.com/in/migag
+* ✉️ Email: migag9@gmail.com
+* 🐦 Twitter: https://twitter.com/mgagliardo_
+
+
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+####################
