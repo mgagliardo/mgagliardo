@@ -1,30 +1,18 @@
 # Hi there, I'm Miguel 👋
 
-### 👷 Currently working as SRE on [N26](https://n26.com) and Contributor on [Localstack](https://localstack.cloud/).
+### 👷 Currently working as Site Reliability Engineer in [N26](https://n26.com) and Contributor/Maintainer in [Localstack](https://github.com/localstack)
 
- My technology stack:
-* Docker + k8s
-* Cloud providers (AWS, mostly)
+💻 My technology stack:
+* Docker
+* Cloud providers (AWS, mostly among others)
 * Programming: Bash, Python, Javascript
-* CI/CD (Jenkins, CircleCI, Gitlab Pipelines)
-* Hashicorp's stack (Terraform, Vault, Consul)
-* Configuration Management Tools (Saltstack, Ansible)
+* CI/CD: Jenkins, CircleCI, Gitlab Pipelines
+* Hashicorp's stack: Terraform, Vault, Consul, Vagrant
+* Configuration Management Tools: Saltstack, Ansible
 
-
-
-🌱 I'm currently:
-* Studying Engineering at [Valencian International University](https://www.universidadviu.com/)
-* 
-
-
-
-- 🤔 I’m looking for help with:
-
-
-
-
-
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgagliardo&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgagliardo&layout=compact&theme=buefy)](https://github.com/mgagliardo/github-readme-stats)
+🌱 I am currently studying:
+* Computer Engineering at [Valencian International University](https://www.universidadviu.com/)
+* [Digital House's Certified Tech Developer Course](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)
 
 📫 How to reach me:
 * 📖 Linkedin: https://linkedin.com/in/migag
@@ -32,15 +20,14 @@
 * 🐦 Twitter: https://twitter.com/mgagliardo_
 
 
+⏰ During my free time I:
+* 🎸 Play the bass 
+* 📖 Read books
+* ✈️ Travel as much as possible!
 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+📊 Some stats about me:
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgagliardo&hide=Prolog,Haskell,Xtend&langs_count=6&layout=compact&count_private=true&theme=dark)](https://github.com/mgagliardo/github-readme-stats)
 
-####################
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=mgagliardo&count_private=true&theme=dark&show_icons=true)](https://github.com/mgagliardo/github-readme-stats)
